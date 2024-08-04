@@ -4,9 +4,9 @@
 I'm a Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about building scalable web applications and solving complex problems.
 
 ## 💼 Skills
-- **Frontend**: React, Redux, HTML5, CSS3, Bootstrap
+- **Frontend**: React, Redux, HTML5, CSS3, Bootstrap, Material UI, Ant Design
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose, Firebase
-- **Other Technologies**: Docker, PostgreSQL, MySQL, Java, Python, C
+- **Other Technologies**: Docker, PostgreSQL, MySQL, Java, Python, C, passpoert.js
 - **Tools**: Git, Figma, Vercel
 
 ## 🌟 Featured Projects
