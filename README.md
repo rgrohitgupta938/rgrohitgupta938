@@ -1,9 +1,3 @@
-Below is a polished, professional, and more complete version of your README. I have updated the structure, improved clarity, corrected typos (e.g., *passport.js*), and added a dedicated section about your work as a **Data Scientist** while keeping your original tone.
-
-You can copy–paste this directly into your GitHub README.
-
----
-
 # Hi there, I'm Rohit Gupta!
 
 ## 🚀 About Me
@@ -84,13 +78,3 @@ This hybrid skill set enables me to design applications that are not only functi
 * I love playing **Cricket**, **Chess**, and **Badminton**.
 * I enjoy exploring new technologies, solving logical problems, and participating in hackathons.
 
----
-
-If you'd like, I can further:
-
-* Add GitHub stats, streaks, or dynamic badges
-* Add a portfolio section
-* Add a “Tech Stack Icons” section
-* Rewrite it in a more casual, formal, or creative tone
-
-Just tell me your preference.
