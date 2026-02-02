@@ -1,80 +1,118 @@
-# Hi there, I'm Rohit Gupta!
+# 👋 Hi, I'm **Rohit Gupta**
 
-## 🚀 About Me
+### 🚀 AI/ML Engineer | Data Scientist | Full Stack Developer
 
-I'm a **Full Stack Developer** specializing in the **MERN stack (MongoDB, Express.js, React, Node.js)** and a **Data Scientist** with hands-on experience in building predictive models and solving real-world analytical problems. I enjoy designing scalable applications, exploring new technologies, and turning data into actionable insights.
+I build **intelligent, production-ready applications** by combining **Machine Learning, NLP, and full-stack engineering**. My focus is on turning data into scalable AI systems that integrate seamlessly into real-world software products.
 
-## 🧠 What I Do
+---
 
-I work at the intersection of **software engineering and data science**, building end-to-end solutions—from intuitive frontends and powerful backends to data-driven models that enhance decision-making and product functionality.
+## 🧠 About Me
+
+I work at the intersection of **AI/ML engineering and software development**, creating end-to-end solutions that include:
+
+* Data preprocessing & model training
+* Model evaluation and optimization
+* ML model deployment via APIs
+* Backend integration of AI systems
+* Scalable frontend + backend architectures
+
+I design applications that are not only functional — but **intelligent, data-driven, and decision-focused**.
+
+---
 
 ## 💼 Technical Skills
 
-### **Frontend**
+### 🤖 **AI / Data Science**
+
+* Python (Pandas, NumPy, Scikit-learn, TensorFlow, XGBoost)
+* Feature Engineering & Data Cleaning
+* Classification, Regression, Clustering
+* Model Evaluation (F1, ROC-AUC, MCC, Precision/Recall)
+* Exploratory Data Analysis (EDA)
+* ML Model Deployment & Integration
+* Error Analysis & Data Validation
+
+### 🧩 **NLP & AI Systems**
+
+* Text preprocessing & embeddings concepts
+* Document classification
+* Entity extraction fundamentals
+* LLM workflow understanding (prompt-driven systems)
+* Exposure to RAG and semantic search pipelines
+
+### ⚙️ **Backend Engineering**
+
+* Node.js, Express.js
+* Django, Flask, Django REST Framework
+* REST APIs & AI model inference services
+
+### 🎨 **Frontend**
 
 * React, Redux
 * HTML5, CSS3
 * Bootstrap, Material UI, Ant Design
 
-### **Backend**
+### 🗄️ **Databases**
 
-* Node.js, Express.js
-* MongoDB, Mongoose
-* Firebase
-* REST APIs, Authentication (Passport.js, JWT)
+* MongoDB, PostgreSQL, MySQL, SQLite, Redis
 
-### **Data Science & Machine Learning**
+### 🛠 **DevOps / Tools**
 
-* Python (Pandas, NumPy, Scikit-learn)
-* Data Cleaning & Feature Engineering
-* Classification, Regression, Clustering models
-* Exploratory Data Analysis (EDA)
-* Model Deployment & Integration
-
-### **Other Technologies**
-
-* Docker
-* PostgreSQL, MySQL
-* Java, C
-* CI/CD basics
-* Cloud Deployment (Vercel, Firebase Hosting)
-
-### **Tools**
-
+* Docker (container basics)
 * Git & GitHub
-* Figma
-* VS Code
 * Postman
+* CI/CD basics
+* Cloud deployment (Firebase, Vercel)
+
+---
 
 ## 🌟 Featured Projects
 
-* **[Personal Finance Tracker](https://github.com/rgrohitgupta938/finance-tracker)**
-  A React-based application for tracking expenses and income, integrated with Firebase authentication and real-time database.
+### 📊 **Personal Finance Tracker**
 
-* **[Travel Enthusiasts Social Media Platform](https://socialprj.web.app/)**
-  A social platform for sharing travel stories, photos, and experiences—built with scalable backend APIs and Firebase services.
+A full-stack finance tracking system with structured data pipelines and interactive visualizations.
 
-* **[Job Portal Web App](https://github.com/rgrohitgupta938/job-portal)**
-  A complete job portal with separate roles for job seekers, employers, and admins, featuring advanced search and secure authentication.
+### 🌍 **Travel Enthusiasts Social Platform**
 
-## 🧑‍💼 Professional Snapshot as a Data Scientist
+Scalable social media platform with REST APIs and Firebase backend services.
 
-Alongside full-stack development, I apply data science techniques to build intelligent systems. My recent work includes:
+### 💼 **Job Portal Web App**
 
-* Developing ML models for **fraud detection**, **recommendation engines**, and **classification tasks**.
-* Conducting **end-to-end data workflows**: data preprocessing, model training, evaluation, and deployment.
-* Integrating predictive insights into web applications for enhanced user experience.
-* Working with real-world datasets using Python, Scikit-learn, and visualization tools.
+Multi-role job portal with authentication, advanced search, and backend business logic.
 
-This hybrid skill set enables me to design applications that are not only functional and visually appealing but also smart and data-driven.
+### 🧠 **ML Model Benchmarking Toolkit**
 
-## 📫 Get in Touch
+Reusable ML training and evaluation pipeline for benchmarking classification models.
 
-* **LinkedIn**: [www.linkedin.com/in/rohit-gupta-648378137](http://www.linkedin.com/in/rohit-gupta-648378137)
-* **Email**: [rgrohitgupta938@gmail.com](mailto:rgrohitgupta938@gmail.com)
+### 📄 **NLP Document Classification System**
+
+Text preprocessing and document classification workflow with API-based inference.
+
+---
+
+## 🧑‍💼 AI / Data Science Snapshot
+
+I develop ML systems that go beyond experimentation:
+
+* Built **classification models** optimized with evaluation metrics
+* Designed **model evaluation frameworks**
+* Performed **error analysis** to improve model robustness
+* Integrated ML pipelines into **production APIs**
+* Implemented **data quality validation and labeling standards**
+
+---
+
+## 📫 Connect With Me
+
+* **LinkedIn:** [www.linkedin.com/in/rohit-gupta-648378137](http://www.linkedin.com/in/rohit-gupta-648378137)
+* **Email:** [rgrohitgupta938@gmail.com](mailto:rgrohitgupta938@gmail.com)
+
+---
 
 ## ⚡ Fun Facts
 
-* I love playing **Cricket**, **Chess**, and **Badminton**.
-* I enjoy exploring new technologies, solving logical problems, and participating in hackathons.
+* I enjoy playing **Cricket**, **Chess**, and **Badminton**
+* I like solving logical problems and exploring new technologies
+* I actively build projects that combine **AI + real-world software**
 
+---
