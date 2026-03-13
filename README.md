@@ -48,7 +48,7 @@ I design applications that are not only functional — but **intelligent, data-d
 
 ### 🎨 **Frontend**
 
-* React, Redux
+* React, Redux, Next.js
 * HTML5, CSS3
 * Bootstrap, Material UI, Ant Design
 
